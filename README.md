@@ -1,3 +1,3 @@
 # ecommerce-clothing-web
 
-## 使用vue3 + vite
+## use vue3 + vite
